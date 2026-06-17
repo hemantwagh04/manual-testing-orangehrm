@@ -13,7 +13,7 @@ boundary and UI test scenarios.
 
 ---
 
-📁** Repository Structure**
+**📁 Repository Structure**
 
 | Folder | Contents |
 |---|---|
