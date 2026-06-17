@@ -1,19 +1,19 @@
-Manual Testing Project — OrangeHRM HRMS Application
+**Manual Testing Project — OrangeHRM HRMS Application**
 
-🎯 Project Overview
+🎯 **Project Overview**-
 This repository contains a complete Manual Testing project for the
 OrangeHRM Human Resource Management System (HRMS) demo web application.
 All testing was performed manually covering functional, negative,
 boundary and UI test scenarios.
 
-Application Under Test:** https://opensource-demo.orangehrmlive.com
-Tester: Hemant Wagh
-Testing Period:April 2026
-Testing Type: Manual Functional Testing
+**Application Under Test**:** https://opensource-demo.orangehrmlive.com
+**Tester**: Hemant Wagh
+**Testing Period**:April 2026
+**Testing Type**: Manual Functional Testing
 
 ---
 
-📁 Repository Structure
+📁** Repository Structure**
 
 | Folder | Contents |
 |---|---|
@@ -25,7 +25,7 @@ Testing Type: Manual Functional Testing
 
 ---
 
-📋 Modules Tested
+📋 **Modules Tested**
 
 - Login Module — Valid/Invalid login, session management, field validation
 - PIM Module — Add/Edit/Delete Employee, photo upload, search, field validation
@@ -33,7 +33,7 @@ Testing Type: Manual Functional Testing
 
 ---
 
-📊 Test Execution Summary
+📊 **Test Execution Summary**
 
 | Module | Total TCs | Passed | Failed | Pass % |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ Testing Type: Manual Functional Testing
 
 ---
 
-🐛 Bugs Found
+🐛 **Bugs Found**
 
 | Bug ID | Module | Summary | Severity | Priority |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ Testing Type: Manual Functional Testing
 
 ---
 
-🛠️ Tools Used
+🛠️ **Tools Used**
 
 - JIRA — Bug tracking and test management
 - Google Sheets — Test case and RTM documentation
@@ -66,7 +66,7 @@ Testing Type: Manual Functional Testing
 
 ---
 
-🔍 Test Environment
+🔍 **Test Environment**
 
 - Browser: Google Chrome (Latest)
 - OS: Windows 11
@@ -74,7 +74,7 @@ Testing Type: Manual Functional Testing
 
 ---
 
-👤 About Me
+👤 **About Me**
 
 Hemant Wagh — Aspiring QA Engineer
 - 📧 contact.hemantwagh@gmail.com
