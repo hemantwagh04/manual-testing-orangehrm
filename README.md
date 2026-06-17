@@ -49,7 +49,7 @@ boundary and UI test scenarios.
 | Bug ID | Module | Summary | Severity | Priority |
 |---|---|---|---|---|
 | BUG001 | Login | Username case sensitivity not enforced | Major | Medium |
-| BUG002 | Login | Back button after logout returns to Dashboard | Major | High |
+| BUG002 | Login | session management failure allowing unauthorized dashboard access post-logout | Major | High |
 | BUG003 | PIM | First Name accepts numeric characters | Major | Medium |
 | BUG004 | PIM | First Name accepts special characters | Major | Medium |
 | BUG005 | Leave | Leave Type dropdown missing some types | Major | Medium |
