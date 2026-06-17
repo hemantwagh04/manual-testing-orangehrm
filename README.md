@@ -6,7 +6,7 @@ OrangeHRM Human Resource Management System (HRMS) demo web application.
 All testing was performed manually covering functional, negative,
 boundary and UI test scenarios.
 
-**Application Under Test**:** https://opensource-demo.orangehrmlive.com
+**Application Under Test:** https://opensource-demo.orangehrmlive.com
 **Tester**: Hemant Wagh
 **Testing Period**:April 2026
 **Testing Type**: Manual Functional Testing
